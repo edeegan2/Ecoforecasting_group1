@@ -1,3 +1,2 @@
 # Ecoforecasting_group1
-
-# edeegan2@nd.edu
+Hayden Gallo: hgallo@nd.edu
